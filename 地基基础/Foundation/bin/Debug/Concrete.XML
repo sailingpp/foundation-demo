@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Concrete>
+	<ConcreteGrade name="C15">
+		<fc>7.2</fc>
+		<ft>0.91</ft>
+		<fck>10</fck>
+		<ftk>1.27</ftk>
+		<Ec>22000</Ec>
+		<vc>0.2</vc>
+	</ConcreteGrade>
+	<ConcreteGrade name="C20">
+		<fc>9.6</fc>
+		<ft>1.1</ft>
+		<fck>13.4</fck>
+		<ftk>1.54</ftk>
+		<Ec>25500</Ec>
+		<vc>0.2</vc>
+	</ConcreteGrade>
+	<ConcreteGrade name="C25">
+		<fc>11.9</fc>
+		<ft>1.27</ft>
+		<fck>16.7</fck>
+		<ftk>1.78</ftk>
+		<Ec>28000</Ec>
+		<vc>0.2</vc>
+	</ConcreteGrade>
+	<ConcreteGrade name="C30">
+		<fc>14.3</fc>
+		<ft>1.43</ft>
+		<fck>20.1</fck>
+		<ftk>2.01</ftk>
+		<Ec>30000</Ec>
+		<vc>0.2</vc>
+	</ConcreteGrade>
+	<ConcreteGrade name="C35">
+		<fc>16.7</fc>
+		<ft>1.57</ft>
+		<fck>23.4</fck>
+		<ftk>2.2</ftk>
+		<Ec>31500</Ec>
+		<vc>0.2</vc>
+	</ConcreteGrade>
+	<ConcreteGrade name="C40">
+		<fc>19.1</fc>
+		<ft>1.71</ft>
+		<fck>26.8</fck>
+		<ftk>2.39</ftk>
+		<Ec>32500</Ec>
+		<vc>0.2</vc>
+	</ConcreteGrade>
+	<ConcreteGrade name="C45">
+		<fc>21.1</fc>
+		<ft>1.8</ft>
+		<fck>29.6</fck>
+		<ftk>2.51</ftk>
+		<Ec>33500</Ec>
+		<vc>0.2</vc>
+	</ConcreteGrade>
+	<ConcreteGrade name="C50">
+		<fc>23.1</fc>
+		<ft>1.89</ft>
+		<fck>32.4</fck>
+		<ftk>2.64</ftk>
+		<Ec>34500</Ec>
+		<vc>0.2</vc>
+	</ConcreteGrade>
+	<ConcreteGrade name="C55">
+		<fc>25.3</fc>
+		<ft>1.96</ft>
+		<fck>35.5</fck>
+		<ftk>2.74</ftk>
+		<Ec>35500</Ec>
+		<vc>0.2</vc>
+	</ConcreteGrade>
+	<ConcreteGrade name="C60">
+		<fc>27.5</fc>
+		<ft>2.04</ft>
+		<fck>38.5</fck>
+		<ftk>2.85</ftk>
+		<Ec>36000</Ec>
+		<vc>0.2</vc>
+	</ConcreteGrade>
+</Concrete>

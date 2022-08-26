@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Steel>
+	<SteelGrade name="HPB300">
+		<fyk>300</fyk>
+		<fstk>420</fstk>
+		<fy>270</fy>
+		<fyp>270</fyp>
+		<Es>210000</Es>
+		<vc>0.3</vc>
+	</SteelGrade>
+	<SteelGrade name="HRB355">
+		<fyk>335</fyk>
+		<fstk>455</fstk>
+		<fy>300</fy>
+		<fyp>300</fyp>
+		<Es>200000</Es>
+		<vc>0.3</vc>
+	</SteelGrade>
+	<SteelGrade name="HPB400">
+		<fyk>400</fyk>
+		<fstk>540</fstk>
+		<fy>360</fy>
+		<fyp>360</fyp>
+		<Es>200000</Es>
+		<vc>0.3</vc>
+	</SteelGrade>
+	<SteelGrade name="HPB500">
+		<fyk>500</fyk>
+		<fstk>630</fstk>
+		<fy>435</fy>
+		<fyp>435</fyp>
+		<Es>200000</Es>
+		<vc>0.3</vc>
+	</SteelGrade>
+</Steel>
